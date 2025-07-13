@@ -1,0 +1,17 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circular background -->
+  <circle cx="60" cy="60" r="55" fill="#0C5C2C" />
+  
+  <!-- Leaf shape 1 -->
+  <path d="M60 25C70 35 85 40 95 35C90 55 75 70 60 75C45 70 30 55 25 35C35 40 50 35 60 25Z" fill="#21A84D" />
+  
+  <!-- Leaf shape 2 -->
+  <path d="M60 40C67 47 77 50 84 47C80 60 70 70 60 73C50 70 40 60 36 47C43 50 53 47 60 40Z" fill="#F58220" />
+  
+  <!-- Stylized G -->
+  <path d="M60 85C45 85 36 75 36 65C36 55 45 45 60 45V55C52 55 46 60 46 65C46 70 52 75 60 75C68 75 74 70 74 65H60V55H84V65C84 75 75 85 60 85Z" fill="white" />
+  
+  <!-- Innovation sparkle -->
+  <circle cx="80" cy="35" r="4" fill="white" />
+  <path d="M80 25V45M70 35H90" stroke="white" stroke-width="2" />
+</svg>
